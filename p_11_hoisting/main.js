@@ -33,7 +33,7 @@ let numero2;
 //exemplo 4
 numero3 = 3;
 console.log(numero3);//missing initializer in const declaration
-const numero3;
+//const numero3;
 
 //sempre utilizar no topo do escopo let ou const
 
